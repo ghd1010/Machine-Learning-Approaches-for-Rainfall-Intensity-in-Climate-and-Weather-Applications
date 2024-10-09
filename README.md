@@ -4,4 +4,4 @@ Weather forecasting is a fundamental aspect of understanding and preparing for a
 
 **This project was completed with my team💪🏼:**
 <br>
-**Reema, and Maryam.**
+**Reema and Maryam.**
